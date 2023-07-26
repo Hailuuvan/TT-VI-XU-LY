@@ -27,17 +27,17 @@
             "preLaunchTask": "C/C++: gcc.exe build active file"
         },
         {
-            "name": "(gdb) Launch",
+            "name": "CCSC RUN",
             "type": "cppdbg",
             "request": "launch",
-            "program": "enter program name, for example ${workspaceFolder}/a.exe",
+            "program": "${fileDirname}\\${fileBasenameNoExtension}.c",
             "args": [],
             "stopAtEntry": false,
             "cwd": "${fileDirname}",
             "environment": [],
             "externalConsole": false,
             "MIMode": "gdb",
-            "miDebuggerPath": "/path/to/gdb",
+            "miDebuggerPath": "D:\\APP\\PIC CCS\\PICC\\Debugger Profiles\\Default.dbg",
             "setupCommands": [
                 {
                     "description": "Enable pretty-printing for gdb",

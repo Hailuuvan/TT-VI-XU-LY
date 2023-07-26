@@ -1,0 +1,16 @@
+[PROJECT]
+Target=BAI_301_CHOPTAT_8LED.hex
+Processor_Text=PIC18F4550
+CCSVersion=5.015
+Compiler=PCH
+[Target Data]
+FileList=BAI_301_CHOPTAT_8LED.c
+[Directories]
+Include=D:\APP\PIC CCS\PICC\devices\;D:\APP\PIC CCS\PICC\drivers\
+[BAI_301_CHOPTAT_8LED.c]
+Type=4
+[mru-list]
+1=BAI_301_CHOPTAT_8LED.c
+[Units]
+Count=1
+1=BAI_301_CHOPTAT_8LED (main)

@@ -1,0 +1,16 @@
+[PROJECT]
+Target=3_NUT_NHAN_ROI.hex
+Processor_Text=PIC18F4550
+CCSVersion=5.015
+Compiler=PCH
+[Target Data]
+FileList=3_NUT_NHAN_ROI.c
+[Directories]
+Include=D:\APP\PIC CCS\PICC\devices\;D:\APP\PIC CCS\PICC\drivers\
+[3_NUT_NHAN_ROI.c]
+Type=4
+[mru-list]
+1=3_NUT_NHAN_ROI.c
+[Units]
+Count=1
+1=3_NUT_NHAN_ROI (main)
