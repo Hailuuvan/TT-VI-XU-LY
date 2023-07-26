@@ -1,0 +1,21 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "Build",
+      "type": "shell",
+      "command": "ccs -b ${workspaceFolder}\\<project_folder>\\<project_name>.pjt",
+      "group": {
+        "kind": "build",
+        "isDefault": true
+      },
+      "problemMatcher": []
+    },
+    {
+      "label": "Debug",
+      "type": "shell",
+      "command": "ccs -c ${workspaceFolder}\\<project_folder>\\<project_name>.pjt",
+      "problemMatcher": []
+    }
+  ]
+}

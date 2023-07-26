@@ -1,0 +1,15 @@
+{
+    "C_Cpp.errorSquiggles": "disabled",
+    "files.associations": {
+        "*.asm": "c",
+        "BAI_409_DEM_PHUT_GIAY_CACH_2.C": "cpp",
+        "BAI_GIANG_TUAN_4_BS.C": "cpp",
+        "tv_pickit2_shift_1_proteus.c": "cpp",
+        "BAI_521_TONGHOP_CHUONG_5.C": "cpp",
+        "BAI_614_LCD_GIO_PHUT_GIAY_NHAP_NHAY.C": "cpp",
+        "BAI_706_2LM35_BUZZ_TTQN.C": "cpp",
+        "bai_714_bis_2": "c",
+        "BAI_714_BIS_2.C": "cpp",
+        "TV_PICKIT2_SHIFT_DS1307_I2C.C": "cpp"
+    }
+}
